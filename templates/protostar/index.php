@@ -195,6 +195,6 @@ else
 			</p>
 		</div>
 	</footer>
-	<jdoc:include type="modules" name="debug" style="none" />
+	<jdoc:include type="modules" name="footer" style="none" />
 </body>
 </html>
